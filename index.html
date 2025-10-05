@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AlphaCode Image Gallery</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+
+
+</head>
+<body>
+
+  <header>
+    <h1> Image Gallery</h1>
+    <div class="filter-buttons">
+      <button data-filter="all">All</button>
+      <button data-filter="nature">Nature</button>
+      <button data-filter="tech">Tech</button>
+    </div>
+  </header>
+
+  <section class="gallery">
+    <div class="image" data-category="nature"><img src="https://cdn.pixabay.com/photo/2022/08/08/19/36/landscape-7373484_1280.jpg" alt="Nature 1"></div>
+    <div class="image" data-category="tech"><img src="https://cdn.pixabay.com/photo/2014/03/25/23/04/technology-298256_1280.jpg" alt="Tech 1"></div>
+    <div class="image" data-category="nature"><img src="https://cdn.pixabay.com/photo/2023/08/19/05/31/green-sea-turtle-8199770_1280.jpg" alt="Nature 2"></div>
+    <div class="image" data-category="tech"><img src="https://cdn.pixabay.com/photo/2019/05/23/13/11/headphones-4223911_1280.jpg" alt="Tech 2"></div>
+    <div class="image" data-category="nature"><img src="https://cdn.pixabay.com/photo/2017/09/11/14/11/fisherman-2739115_1280.jpg"alt="Nature3"></div>
+    <div class="image" data-category="tech"><img src="https://cdn.pixabay.com/photo/2021/10/11/16/00/robot-6701139_1280.jpg"alt="tech3"></div>
+    <div class="image" data-category="nature"><img src="https://cdn.pixabay.com/photo/2024/12/28/03/39/field-9295186_1280.jpg"alt="Nature4"></div>
+    <div class="image" data-category="tech"><img src="https://cdn.pixabay.com/photo/2023/09/20/09/08/virtual-reality-8264209_1280.jpg"alt="tech4"></div>
+    <div class="image" data-category="nature"><img src="https://cdn.pixabay.com/photo/2021/11/21/21/14/mountain-6815304_1280.jpg"alt="Nature5"></div>
+    <div class="image" data-category="tech"><img src="https://cdn.pixabay.com/photo/2019/04/15/11/42/fortnite-4129124_1280.jpg"alt="tech5"></div>
+    <div class="image" data-category="nature"><img src="https://cdn.pixabay.com/photo/2020/07/13/12/56/mute-swan-5400675_1280.jpg"alt="Nature6"></div>
+    <div class="image" data-category="tech"><img src="https://cdn.pixabay.com/photo/2017/03/20/13/35/video-game-2159117_1280.jpg"alt="tech6"></div>
+    <div class="image" data-category="nature"><img src="https://cdn.pixabay.com/photo/2025/05/14/10/09/bridge-9599215_1280.jpg"alt="nature7"></div>
+    <div class="image" data-category="tech"><img src="https://cdn.pixabay.com/photo/2017/04/04/18/18/video-game-console-2202663_1280.jpg"alt="tech7"></div>
+    <div class="image" data-category="nature"><img src="https://cdn.pixabay.com/photo/2023/11/02/16/47/dawn-8361032_1280.jpg"alt="nature7"></div>
+     <!-- Add more images as needed -->
+  </section>
+
+  <!-- Lightbox -->
+  <div class="lightbox" id="lightbox">
+    <span class="close" id="closeBtn">&times;</span>
+    <img class="lightbox-img" id="lightboxImg" src="">
+    <div class="lightbox-nav">
+      <span id="prevBtn">&#10094;</span>
+      <span id="nextBtn">&#10095;</span>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
