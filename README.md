@@ -26,7 +26,7 @@ It features category filters, smooth hover effects, and a lightbox with navigati
 
 ## Author
 
-Your Name | [GitHub Profile](https://github.com/yourusername)
+Your Name | [diptic839](https://github.com/diptic839)
 
 ---
 
