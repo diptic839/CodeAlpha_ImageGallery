@@ -1,33 +1,15 @@
-# CodeAlpha Image Gallery Project
+## Screenshots
 
-This is a responsive image gallery project built as part of the CodeAlpha Frontend Development Internship.  
-It features category filters, smooth hover effects, and a lightbox with navigation controls.
+![Screenshot 1](https://raw.githubusercontent.com/diptic839/CodeAlpha_ImageGallery/main/screenshots/screenshot1.png)
+*Description of Screenshot 1*
 
-## Features
+![Screenshot 2](https://raw.githubusercontent.com/diptic839/CodeAlpha_ImageGallery/main/screenshots/screenshot2.png)
+*Description of Screenshot 2*
 
-- Filter images by category (Nature, Tech, All)  
-- Responsive grid layout using CSS Grid  
-- Hover effects with smooth zoom and shadow  
-- Lightbox popup for enlarged image view with next/prev navigation  
-- Mobile friendly and fully responsive design
+![Screenshot 3](https://raw.githubusercontent.com/diptic839/CodeAlpha_ImageGallery/main/screenshots/screenshot3.png)
+*Description of Screenshot 3*
 
-## Technologies Used
-
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla JS)
-
-## How to Run
-
-1. Clone the repo or download the files.  
-2. Open `index.html` in your web browser.  
-3. Click on images to open the lightbox.  
-4. Use filter buttons to sort images by category.
 
 ## Author
 
-Your Name | [diptic839](https://github.com/diptic839)
-
----
-
-*This project was developed during the CodeAlpha Frontend Development Internship.*
+*Your author details here*
