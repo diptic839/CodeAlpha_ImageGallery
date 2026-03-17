@@ -1,15 +1,13 @@
-## Screenshots
+# CodeAlpha Image Gallery
 
-![Screenshot 1](https://raw.githubusercontent.com/diptic839/CodeAlpha_ImageGallery/main/screenshots/screenshot1.png)
-*Description of Screenshot 1*
+Welcome to the CodeAlpha Image Gallery project!
 
-![Screenshot 2](https://raw.githubusercontent.com/diptic839/CodeAlpha_ImageGallery/main/screenshots/screenshot2.png)
-*Description of Screenshot 2*
+![Screenshot 1](Screenshot%202025-10-22%20125649.png)
+![Screenshot 2](Screenshot%202025-10-22%20125704.png)
+![Screenshot 3](Screenshot%202025-10-22%20125718.png)
 
-![Screenshot 3](https://raw.githubusercontent.com/diptic839/CodeAlpha_ImageGallery/main/screenshots/screenshot3.png)
-*Description of Screenshot 3*
+## Description
+This project is designed to showcase an image gallery featuring various images.
 
-
-## Author
-
-*Your author details here*
+## Usage
+To use this image gallery, simply clone the repository and open the index.html file in your browser.
